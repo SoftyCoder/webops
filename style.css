@@ -1,0 +1,37 @@
+body {
+    background-color: #222;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+.wrap {
+    width: 280px;
+    margin: 120px auto;
+    background: #333;
+    padding: 20px;
+    border: 1px solid #444;
+}
+
+.inp {
+    width: 93%;
+    padding: 8px;
+    margin-top: 5px;
+    background: #111;
+    border: 1px solid #555;
+    color: #fff;
+}
+
+#btn {
+    width: 100%;
+    padding: 10px;
+    background: #00bcd4;
+    border: none;
+    color: #000;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+#btn:hover {
+    background: #0097a7;
+}
