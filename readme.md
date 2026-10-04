@@ -1,19 +1,16 @@
 # Simple Login Page
 
-A very basic and minimal login page example to demonstrate simple web structure and styling. 
+A simple login page, made for Shaastra 2027 WebOps Application.
+## Languages Used
 
-## Technologies Used
-
-* **HTML** - For the page structure.
+* **HTML** - For the structure of the webpage.
 * **CSS** - For the design and layout.
 
-## How to Run
-
-Since this is a simple static project, no installation or build process is required.
-
-1. Clone this repository or download the files.
-2. Double-click the `index.html` file to open it in your default web browser.
+## How to view the Webpage:
+1. Download both the index.html and style.css file onto ur computer.
+2. Add them into the same folder.
+3. Open the index.html using a browser.
 
 ## Preview
+<img width="1280" height="602" alt="image" src="https://github.com/user-attachments/assets/6c890868-11ad-482a-9f96-342ddf9bf68f" />
 
-*(Tip: You can drag and drop a screenshot of your login page here when editing on GitHub!)*
